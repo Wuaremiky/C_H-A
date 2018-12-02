@@ -178,9 +178,11 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("../images/header.jpg");
+  background-image: url("../images/header2.jpg");
   background-position: center center;
   background-size: cover;
+  /*background-color: rgba(0,0,0,0.8);
+  filter:brightness(0.4);*/
 }
 
 header.masthead hr {
